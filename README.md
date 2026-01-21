@@ -4,7 +4,7 @@ I recommend using this mod in combination with the Better Inspirational Perk mod
 
 Requires:
 
-Automatron
+- Automatron
 - Contraptions Workshop
 - Far Harbor
 - Nuka World
