@@ -5,8 +5,8 @@ I recommend using this mod in combination with the Better Inspirational Perk mod
 Requires:
 
 Automatron
-Contraptions Workshop
-Far Harbor
-Nuka World
-Vault-Tec Workshop
-Wasteland Workshop
+- Contraptions Workshop
+- Far Harbor
+- Nuka World
+- Vault-Tec Workshop
+- Wasteland Workshop
